@@ -1,3 +1,3 @@
 # KOKOA Clone 2021 Update
 
-CSS got so much BETTER!
+HTML & CSS got so much BETTER!S2
