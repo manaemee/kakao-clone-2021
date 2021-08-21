@@ -179,6 +179,6 @@
   width: 95vw;
   transform: translateX(-8%) translateY(-80px);
 }
-.reply:focus cus-within {
+.reply:focus-within {
   transform: translateY(80px);
 }
